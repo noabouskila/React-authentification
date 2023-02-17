@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/React-authentification/static/js/main.51501079.chunk.js",
+    "main.js.map": "/React-authentification/static/js/main.51501079.chunk.js.map",
+    "runtime-main.js": "/React-authentification/static/js/runtime-main.d553f388.js",
+    "runtime-main.js.map": "/React-authentification/static/js/runtime-main.d553f388.js.map",
+    "static/js/2.64399ce8.chunk.js": "/React-authentification/static/js/2.64399ce8.chunk.js",
+    "static/js/2.64399ce8.chunk.js.map": "/React-authentification/static/js/2.64399ce8.chunk.js.map",
+    "index.html": "/React-authentification/index.html",
+    "static/js/2.64399ce8.chunk.js.LICENSE.txt": "/React-authentification/static/js/2.64399ce8.chunk.js.LICENSE.txt",
+    "static/media/horse.f87e5d74.gif": "/React-authentification/static/media/horse.f87e5d74.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d553f388.js",
+    "static/js/2.64399ce8.chunk.js",
+    "static/js/main.51501079.chunk.js"
+  ]
+}
